@@ -1,1 +1,1 @@
-Script to print absolute path
+where am i
